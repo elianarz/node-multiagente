@@ -1,0 +1,4 @@
+---
+applications:
+ - name: elianar
+   random-route: true
